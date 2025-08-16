@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Ignacio Gallardo
+- Vivo en Ituzaingó
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Ya tuve contacto con github ya que estoy recursando esta materia
+- Tengo una perra que se llama Rubi
+- Trabajo de profesor en escuela secundaria técnica en Ituzaingó, Morón y Hurlingham
